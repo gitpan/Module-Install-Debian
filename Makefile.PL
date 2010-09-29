@@ -12,3 +12,4 @@ test_requires 'Test::Perl::Critic';
 test_requires 'Test::Pod' => '1.14';
 
 WriteAll;
+

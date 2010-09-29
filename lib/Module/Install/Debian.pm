@@ -7,7 +7,7 @@ use English;
 use vars qw{$VERSION @ISA};
 
 BEGIN {
-    $VERSION = '0.02';
+    $VERSION = '0.030';
     @ISA     = qw{Module::Install::Base};
 }
 
